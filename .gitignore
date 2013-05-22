@@ -1,0 +1,13 @@
+*.vo
+*.v.d
+*.glob
+Makefile.coq
+_build
+*.d.byte
+*.native
+*.out
+*.cmi
+*.cma
+*.pyo
+*.pyc
+ocaml/extracted
