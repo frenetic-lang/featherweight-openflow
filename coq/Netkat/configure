@@ -1,0 +1,2 @@
+#!/bin/bash
+coq_makefile Packet.v netcore.v example.v -o Makefile
